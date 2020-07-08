@@ -15,10 +15,10 @@ Help marketing agencies and content creators better understand the latest trends
 
 ### Our Process and Tools
 
-* *Extract* Kaggle, Excel
-* *Transform* Python, Jupyter Notebook, SQL, Tableau
-* *Load* Tableau
-* *Machine Learning* Google Colab, XGBoost
+* *Extract-* Kaggle, Excel
+* *Transform-* Python, Jupyter Notebook, SQL, Tableau
+* *Load-* Tableau
+* *Machine Learning-* Google Colab, XGBoost
 
 
 ### Questions we looked to answer
