@@ -40,7 +40,7 @@ Help marketing agencies and content creators better understand the latest trends
 * *Music drives views, causes drive engagement*
 * *First 24 hours are key* 
 
-### Machine Learning Lesson
+### Machine Learning
 
 * Instead of looking up what increases views, we wanted to see what increased engagement. Therefore, we focused on how to increase 'Like' count
 * Using regression methods like Lasso, Elastic Net, Ridge, and XGBoost, we were able to confine our variables to a 78-83% R square which gives us confidence in the fit of the line.
