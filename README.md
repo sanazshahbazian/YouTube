@@ -34,9 +34,10 @@ Help marketing agencies and content creators better understand the latest trends
 
 ### What did we find?
 
-* PEOPLE WATCH MUSIC/ENTERTAINMENT, BUT ENGAGE WITH CAUSES THEY CARE ABOUT
-* TRENDING HAPPENS IMMEDIATELY, BUT CHANCES ARE BETTER POSTING ON A WEEKDAY
-* TAGS ARE CRITICAL TO TRENDING WHILE SUBSCRIBERS ARE NOT AS VALUABLE 
+* People watch music/entertainment, but engage with causes they care about
+* Trending happens immediately, but chances are better posting on a weekday.
+* Tags are critical to trending while subscribers are not as valuable
+
 * *Music drives views, causes drive engagement*
 * *First 24 hours are key* 
 
