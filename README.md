@@ -1,5 +1,10 @@
 # YouTube Trends Analysis
 
+<p align="center">
+  <img width="460" height="200" src="images/youtube.png">
+</p>
+
+
 
 ## Our Goal
 
