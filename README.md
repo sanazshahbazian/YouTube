@@ -67,8 +67,8 @@ Help marketing agencies and content creators better understand the latest trends
 
 Our Slides and Visualizations can be found here: https://docs.google.com/presentation/d/1dOlPg_edCZL9FTaLHF2NVNUrv79g9obzRtLnynRUXKA/edit#slide=id.g8b9b2062a4_0_166
 ### Team 
-Jack 
-Jennie
+Jack   
+Jennie  
 sanaz: Responsible for visualization with tableau and extract the data 
-samir
-karran 
+samir  
+karran   
